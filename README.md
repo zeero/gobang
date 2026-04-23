@@ -108,12 +108,12 @@ If you want to add connections, you need to edit your config file. For more info
 
 | Key | Description |
 | ---- | ---- |
-| <kbd>h</kbd>, <kbd>j</kbd>, <kbd>k</kbd>, <kbd>l</kbd> | Scroll left/down/up/right |
+| <kbd>Ctrl</kbd> + <kbd>H</kbd>, <kbd>↓</kbd>, <kbd>↑</kbd>, <kbd>Ctrl</kbd> + <kbd>L</kbd> | Scroll left/down/up/right |
 | <kbd>Ctrl</kbd> + <kbd>u</kbd>, <kbd>Ctrl</kbd> + <kbd>d</kbd> | Scroll up/down multiple lines |
 | <kbd>g</kbd> , <kbd>G</kbd> | Scroll to top/bottom |
-| <kbd>←</kbd>, <kbd>J</kbd>, <kbd>K</kbd>, <kbd>→</kbd> | Extend selection by one cell left/down/up/right |
+| <kbd>H</kbd>, <kbd>J</kbd>, <kbd>K</kbd>, <kbd>L</kbd> | Extend selection by one cell left/down/up/right |
 | <kbd>y</kbd> | Copy a cell value |
-| <kbd>H</kbd>, <kbd>L</kbd> | Move focus to left/right |
+| <kbd>←</kbd>, <kbd>→</kbd> | Move focus to left/right |
 | <kbd>c</kbd> | Move focus to connections |
 | <kbd>/</kbd> | Filter |
 | <kbd>?</kbd> | Help |
